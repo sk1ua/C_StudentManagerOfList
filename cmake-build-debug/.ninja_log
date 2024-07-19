@@ -1,19 +1,5 @@
 # ninja log v6
-34	354	7429648648040787	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-355	606	7429648651244207	C_StudentManager.exe	7c3b5070d7a61987
-4	98	7429654061331422	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-99	185	7429654062271860	C_StudentManager.exe	7c3b5070d7a61987
-4	115	7429663178957983	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-116	196	7429663180077435	C_StudentManager.exe	7c3b5070d7a61987
-5	153	7429667281005504	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-153	266	7429667282497038	C_StudentManager.exe	7c3b5070d7a61987
-6	177	7429671047312561	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-179	302	7429671049043276	C_StudentManager.exe	7c3b5070d7a61987
-5	143	7429671158558763	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-144	247	7429671159948095	C_StudentManager.exe	7c3b5070d7a61987
-5	137	7429671292742895	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-137	238	7429671294060650	C_StudentManager.exe	7c3b5070d7a61987
-5	141	7429671405585357	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-141	246	7429671406943801	C_StudentManager.exe	7c3b5070d7a61987
-6	154	7429673957372723	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
-155	268	7429673958872767	C_StudentManager.exe	7c3b5070d7a61987
+6	190	7430576325722594	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
+191	324	7430576327567163	C_StudentManager.exe	7c3b5070d7a61987
+5	159	7430583984334203	CMakeFiles/C_StudentManager.dir/main.cpp.obj	395e30adefd2d245
+159	270	7430583985870368	C_StudentManager.exe	7c3b5070d7a61987

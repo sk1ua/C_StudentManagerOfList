@@ -539,7 +539,7 @@ void menu() {
                 printf("请输入文件名称: ");
                 scanf("%s", filename);
                 getchar();
-
+                head = NULL;
                 Input(filename, head);
                 printf("数据已从 %s 加载完成。\n", filename);
                 strcpy(NowFileName, filename);
@@ -786,6 +786,10 @@ void menu() {
                 STU* newList = Search_major_subject_score(head, major, subject - 1, grade);
                 printf("找到的学生信息如下:\n");
                 Output(newList);
+                printf("请输入另存文件名:");
+                char filename[255];
+                scanf("%s",filename);
+                Save(newList,filename);
                 while (newList != NULL) {
                     STU* temp = newList;
                     newList = newList->next;
